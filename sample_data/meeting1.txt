@@ -1,0 +1,14 @@
+Omar: Good morning team, let's get our sprint planning started.
+Sarah: Morning! Hold on, let me grab my coffee real quick. 
+Omar: No problem. Did anyone see the match last night? 
+Hassan: Oh yeah, incredible comeback! 
+Ayesha: Totally. Alright, what is our main priority this sprint? 
+Omar: We decided that we will prioritize the payment gateway refactoring this sprint instead of the UI redesign. 
+Sarah: That makes sense given the recent backend errors. 
+Hassan: My main concern is that the third-party payment API might hit rate limits during peak load. 
+Omar: That is a valid point, Hassan. For tasks, Sarah, can you update the API documentation for the checkout service by Friday? 
+Sarah: Sure, I will take care of the API documentation by Friday. 
+Hassan: I can set up the staging environment database cluster by Wednesday. 
+Ayesha: I will draft the test cases for user authentication, but I don't have a deadline set for that yet. 
+Omar: Sounds good. We need to schedule another meeting next Tuesday to review the load test results. 
+Sarah: Perfect, see you all then!
