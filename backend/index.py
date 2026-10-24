@@ -1,0 +1,1 @@
+from app.main import app  # Vercel looks for an `app` object in index.py

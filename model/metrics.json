@@ -1,0 +1,18 @@
+{
+  "base": {
+    "json_valid": 0.0,
+    "action_recall": 0.0,
+    "action_precision": 0.0,
+    "owner_accuracy": 0.0,
+    "deadline_accuracy": 0.0,
+    "follow_up_accuracy": 0.0
+  },
+  "tuned": {
+    "json_valid": 1.0,
+    "action_recall": 0.96,
+    "action_precision": 1.0,
+    "owner_accuracy": 1.0,
+    "deadline_accuracy": 1.0,
+    "follow_up_accuracy": 0.93
+  }
+}
